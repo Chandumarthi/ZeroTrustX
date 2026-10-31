@@ -630,11 +630,5 @@ This project is submitted as a capstone project demonstrating:
 
 ---
 
-## License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
 *ZeroTrustX — Academic Capstone Project*  
 *"Intelligent Security. Adaptive Trust."*
